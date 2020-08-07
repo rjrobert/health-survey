@@ -1,0 +1,533 @@
+{
+  "survey": {
+    "headerText": "RAND 36-Item Health Survey 1.0 Questionaire Items",
+    "subHeaderText": "Choose one option for each questionnarie item.",
+    "questions": [
+      {
+        "id": "1",
+        "headerText": "",
+        "questionType": "Single Choice",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "1",
+            "questionText": "In general, would you say your health is:"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Excellent",
+            "recodedValue": "100"
+          },
+          {
+            "id": "2",
+            "answerText": "Very good",
+            "recodedValue": "75"
+          },
+          {
+            "id": "3",
+            "answerText": "Good",
+            "recodedValue": "50"
+          },
+          {
+            "id": "4",
+            "answerText": "Fair",
+            "recodedValue": "25"
+          },
+          {
+            "id": "5",
+            "answerText": "Poor",
+            "recodedValue": "0"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "headerText": "",
+        "questionType": "Single Choice",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "2",
+            "questionText": "Compared to one year ago, how would you rate your health in general now?"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Much better now than one year ago",
+            "recodedValue": "100"
+          },
+          {
+            "id": "2",
+            "answerText": "Somewhat better now than one year ago",
+            "recodedValue": "75"
+          },
+          {
+            "id": "3",
+            "answerText": "About the same",
+            "recodedValue": "50"
+          },
+          {
+            "id": "4",
+            "answerText": "Somewhat worse now than one year ago",
+            "recodedValue": "25"
+          },
+          {
+            "id": "5",
+            "answerText": "Much worse now than one year ago",
+            "recodedValue": "0"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "headerText": "The following items are about activites you might do during a typical day. Does your health now limit you in these activites? If so, how much?",
+        "questionType": "Matrix",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "3",
+            "questionText": "Vigorous activities, such as running, lifting heavy objects, participating in strenuous sports"
+          },
+          {
+            "id": "2",
+            "questionNumber": "4",
+            "questionText": "Moderate activities, such as moving a table, pushing a vacuum cleaner, bowling, or playing golf"
+          },
+          {
+            "id": "3",
+            "questionNumber": "5",
+            "questionText": "Lifting or carrying groceries"
+          },
+          {
+            "id": "4",
+            "questionNumber": "6",
+            "questionText": "Climbing several flights of stairs"
+          },
+          {
+            "id": "5",
+            "questionNumber": "7",
+            "questionText": "Climbing one flight of stairs"
+          },
+          {
+            "id": "6",
+            "questionNumber": "8",
+            "questionText": "Bending, kneeling, or stooping"
+          },
+          {
+            "id": "7",
+            "questionNumber": "9",
+            "questionText": "Walking more than a mile"
+          },
+          {
+            "id": "8",
+            "questionNumber": "10",
+            "questionText": "Walking several blocks"
+          },
+          {
+            "id": "9",
+            "questionNumber": "11",
+            "questionText": "Walking one block"
+          },
+          {
+            "id": "10",
+            "questionNumber": "12",
+            "questionText": "Bathing or dressing yourself"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Yes, limited a lot",
+            "recodedValue": "0"
+          },
+          {
+            "id": "2",
+            "answerText": "Yes, limited a little",
+            "recodedValue": "50"
+          },
+          {
+            "id": "3",
+            "answerText": "No, not limited at all",
+            "recodedValue": "100"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "headerText": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of your physical health?",
+        "questionType": "Matrix",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "13",
+            "questionText": "Cut down the amount of time you spent on work or other activities"
+          },
+          {
+            "id": "2",
+            "questionNumber": "14",
+            "questionText": "Accomplished less than you would like"
+          },
+          {
+            "id": "3",
+            "questionNumber": "15",
+            "questionText": "Were limited in the kind of work or other activities"
+          },
+          {
+            "id": "4",
+            "questionNumber": "16",
+            "questionText": "Had difficulty performing the work or other activities (for example, it took extra effort)"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Yes",
+            "recodedValue": "0"
+          },
+          {
+            "id": "2",
+            "answerText": "No",
+            "recodedValue": "100"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "headerText": "During the past 4 weeks, have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)?",
+        "questionType": "Matrix",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "17",
+            "questionText": "Cut down the amount of time you spent on work or other activities"
+          },
+          {
+            "id": "2",
+            "questionNumber": "18",
+            "questionText": "Accomplished less than you would like"
+          },
+          {
+            "id": "3",
+            "questionNumber": "19",
+            "questionText": "Didn't do work or other activities as carefully as usual"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Yes",
+            "recodedValue": "0"
+          },
+          {
+            "id": "2",
+            "answerText": "No",
+            "recodedValue": "100"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "headerText": "",
+        "questionType": "Single Choice",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "20",
+            "questionText": "During the past 4 weeks, to what extend has your physical health or emotional problems interfered with your normal social activities with family, friends, neighbors, or groups?"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Not at all",
+            "recodedValue": "100"
+          },
+          {
+            "id": "2",
+            "answerText": "Slightly",
+            "recodedValue": "75"
+          },
+          {
+            "id": "3",
+            "answerText": "Moderately",
+            "recodedValue": "50"
+          },
+          {
+            "id": "4",
+            "answerText": "Quite a bit",
+            "recodedValue": "25"
+          },
+          {
+            "id": "5",
+            "answerText": "Extremely",
+            "recodedValue": "0"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "headerText": "",
+        "questionType": "Single Choice",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "21",
+            "questionText": "How much bodily pain have you had during the past 4 weeks?"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "None",
+            "recodedValue": "100"
+          },
+          {
+            "id": "2",
+            "answerText": "Very mild",
+            "recodedValue": "80"
+          },
+          {
+            "id": "3",
+            "answerText": "Mild",
+            "recodedValue": "60"
+          },
+          {
+            "id": "4",
+            "answerText": "Moderate",
+            "recodedValue": "40"
+          },
+          {
+            "id": "5",
+            "answerText": "Severe",
+            "recodedValue": "20"
+          },
+          {
+            "id": "6",
+            "answerText": "Very severe",
+            "recodedValue": "0"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "headerText": "",
+        "questionType": "Single Choice",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "22",
+            "questionText": "During the past 4 weeks, how much did pain interfere with your normal work (including both work outside the home and housework)?"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Not at all",
+            "recodedValue": "100"
+          },
+          {
+            "id": "2",
+            "answerText": "A little bit",
+            "recodedValue": "75"
+          },
+          {
+            "id": "3",
+            "answerText": "Moderately",
+            "recodedValue": "50"
+          },
+          {
+            "id": "4",
+            "answerText": "Quite a bit",
+            "recodedValue": "25"
+          },
+          {
+            "id": "5",
+            "answerText": "Extremely",
+            "recodedValue": "0"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "headerText": "These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closes to the way you have been feeling.",
+        "subHeaderText": "How much of the time during the past 4 weeks...",
+        "questionType": "Matrix",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "23",
+            "questionText": "Did you feel full of pep?"
+          },
+          {
+            "id": "2",
+            "questionNumber": "24",
+            "questionText": "Have you been a very nervous person"
+          },
+          {
+            "id": "3",
+            "questionNumber": "25",
+            "questionText": "Have you felt so down in the dumps that nothing could cheer you up?"
+          },
+          {
+            "id": "4",
+            "questionNumber": "26",
+            "questionText": "Have you felt calm and peaceful?"
+          },
+          {
+            "id": "5",
+            "questionNumber": "27",
+            "questionText": "Did you have a lot of energy?"
+          },
+          {
+            "id": "6",
+            "questionNumber": "28",
+            "questionText": "Have you felt downhearted and blue?"
+          },
+          {
+            "id": "7",
+            "questionNumber": "29",
+            "questionText": "Did you feel worn out?"
+          },
+          {
+            "id": "8",
+            "questionNumber": "30",
+            "questionText": "Have you been a happy person?"
+          },
+          {
+            "id": "9",
+            "questionNumber": "31",
+            "questionText": "Did you feel tired?"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "All of the time",
+            "recodedValue": "100"
+          },
+          {
+            "id": "2",
+            "answerText": "Most of the time",
+            "recodedValue": "80"
+          },
+          {
+            "id": "3",
+            "answerText": "A good bit of the time",
+            "recodedValue": "60"
+          },
+          {
+            "id": "4",
+            "answerText": "Some of the time",
+            "recodedValue": "40"
+          },
+          {
+            "id": "5",
+            "answerText": "A little of the time",
+            "recodedValue": "20"
+          },
+          {
+            "id": "6",
+            "answerText": "None of the time",
+            "recodedValue": "0"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "headerText": "",
+        "questionType": "Single Choice",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "32",
+            "questionText": "During the past 4 weeks, how much of the time has your physical health or emotional problems interfered with your social activities (like visitin friends, relatives, etc.)?"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "All of the time",
+            "recodedValue": "0"
+          },
+          {
+            "id": "2",
+            "answerText": "Most of the time",
+            "recodedValue": "25"
+          },
+          {
+            "id": "3",
+            "answerText": "Some of the time",
+            "recodedValue": "50"
+          },
+          {
+            "id": "4",
+            "answerText": "A little of the time",
+            "recodedValue": "75"
+          },
+          {
+            "id": "5",
+            "answerText": "None of the time",
+            "recodedValue": "100"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "headerText": "How TRUE or FALSE is each of the following statements for you.",
+        "questionType": "Matrix",
+        "questionOptions": [
+          {
+            "id": "1",
+            "questionNumber": "33",
+            "questionText": "I seem to get sick a little easier than other people"
+          },
+          {
+            "id": "2",
+            "questionNumber": "34",
+            "questionText": "I am as healthy as anybody I know"
+          },
+          {
+            "id": "3",
+            "questionNumber": "35",
+            "questionText": "I expect my health to get worse"
+          },
+          {
+            "id": "4",
+            "questionNumber": "36",
+            "questionText": "My health is excellent"
+          }
+        ],
+        "answerOptions": [
+          {
+            "id": "1",
+            "answerText": "Definitely true",
+            "recodedValue": "0"
+          },
+          {
+            "id": "2",
+            "answerText": "Mostly true",
+            "recodedValue": "25"
+          },
+          {
+            "id": "3",
+            "answerText": "Don't know",
+            "recodedValue": "50"
+          },
+          {
+            "id": "4",
+            "answerText": "Mostly false",
+            "recodedValue": "25"
+          },
+          {
+            "id": "5",
+            "answerText": "Definitely false",
+            "recodedValue": "0"
+          }
+        ]
+      }
+    ]
+  }
+}
